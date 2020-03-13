@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50928311-2e7c-40a8-8ad9-a8225fc70941" name="Default Changelist" comment="" />
+    <list default="true" id="50928311-2e7c-40a8-8ad9-a8225fc70941" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fucking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naverChina/test/NaverChinaTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test5.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,7 +99,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/fucking.java" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -104,7 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1386" />
@@ -222,15 +231,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584067808336</updated>
-      <workItem from="1584067818347" duration="6672000" />
+      <workItem from="1584067818347" duration="7268000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6672000" />
+    <option name="totallyTimeSpent" value="7268000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
